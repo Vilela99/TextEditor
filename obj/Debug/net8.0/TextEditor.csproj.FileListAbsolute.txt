@@ -7,6 +7,7 @@ C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuild
 C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
 C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
 C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
 C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.dll
 C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
 C:\DesenvolvimentoOFC\C#\TextEditor\obj\Debug\net8.0\TextEditor.pdb

@@ -67,8 +67,10 @@ namespace TextEditor
         static void Save(string text)
         {
             Console.Clear();
-            Console.WriteLine("Choose the name of the file");
+            Console.WriteLine("Choose the path to the file");
             var path = Console.ReadLine();
+
+
 
             using (var file = new StreamWriter(path))
             {
